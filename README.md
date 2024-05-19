@@ -1,1 +1,1 @@
-File Readme về project nằm trong file oop_project
+File Readme về project này nằm trong file project_oop
